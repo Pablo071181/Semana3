@@ -4,7 +4,7 @@
 }
 
 .body {
-  background-color: #20232a;
+  background-color: #4a8868;
   color: #fff;
   font-family: var(--primary-font-family);
   margin: 0;
@@ -16,7 +16,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #20232a80;
+  background-color: #4a576380;
   box-shadow: 0 0 0.0625rem 0.0625rem #fff8;
 }
 
